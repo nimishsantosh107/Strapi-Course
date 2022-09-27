@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_seo_seo_informations",
+  "info": {
+    "displayName": "SeoInformation",
+    "icon": "broadcast-tower",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "seoTitle": {
+      "type": "string"
+    },
+    "seoDescription": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "single_arrays",
+  "info": {
+    "singularName": "single-array",
+    "pluralName": "single-arrays",
+    "displayName": "SingleArray",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "arrayItems": {
+      "type": "component",
+      "repeatable": true,
+      "component": "single.single-array-item"
+    }
+  }
+}

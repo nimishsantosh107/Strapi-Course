@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_single_single_array_items",
+  "info": {
+    "displayName": "SingleArrayItem",
+    "icon": "clipboard-list"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    }
+  }
+}

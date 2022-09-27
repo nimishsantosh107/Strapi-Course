@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "single_tests",
+  "info": {
+    "singularName": "single-test",
+    "pluralName": "single-tests",
+    "displayName": "SingleTest"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    }
+  }
+}
